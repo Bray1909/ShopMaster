@@ -1,2 +1,2 @@
 # ShopMaster
-desarrollo prueba tecnica
+Desarrollo prueba tecnica
